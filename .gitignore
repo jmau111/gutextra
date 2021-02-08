@@ -1,0 +1,6 @@
+scripts/*/build
+node_modules
+gutextra.zip
+.DS_Store
+svn
+vendor/

@@ -1,0 +1,15 @@
+{
+  "name": "gutextra",
+  "version": "1.1.2",
+  "dependencies": {},
+  "scripts": {
+    "build": "wp-scripts build",
+    "dev": "wp-scripts start"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^12.5.0"
+  },
+  "browserslist": [
+    "extends @wordpress/browserslist-config"
+  ]
+}

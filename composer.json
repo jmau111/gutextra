@@ -1,0 +1,28 @@
+{
+  "name": "jmau/gutextra",
+  "keywords": [
+    "WordPress",
+    "Gutenberg",
+    "blocks",
+    "charts",
+    "collection",
+    "pie",
+    "image",
+    "watermark",
+    "copyright"
+  ],
+  "homepage": "https://github.com/jmau111/gutextra",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "jmau111",
+      "email": "https://julien-maury.dev"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "description": "",
+  "require": {
+    "composer/installers": "~1.0",
+    "php": ">=5.4.0"
+  }
+}

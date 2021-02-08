@@ -1,0 +1,275 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: src/alerts/index.js:17
+msgid "Alerts"
+msgstr ""
+
+#: src/alerts/index.js:46
+msgid "Write an alert"
+msgstr ""
+
+#: src/alerts/index.js:51
+msgid "Alert type"
+msgstr ""
+
+#: src/alerts/index.js:54
+msgid "Default"
+msgstr ""
+
+#: src/alerts/index.js:55
+msgid "Danger"
+msgstr ""
+
+#: src/alerts/index.js:56
+msgid "Warning"
+msgstr ""
+
+#: src/alerts/index.js:57
+msgid "Info"
+msgstr ""
+
+#: src/alerts/index.js:58
+msgid "Success"
+msgstr ""
+
+#: src/flip-card/index.js:130
+msgid "Front card settings"
+msgstr ""
+
+#: src/flip-card/index.js:133
+msgid "Override default Cat image"
+msgstr ""
+
+#: src/flip-card/index.js:148
+msgid "Insert from Media Library"
+msgstr ""
+
+#: src/flip-card/index.js:161
+#: src/watermark/index.js:113
+msgid "Change image"
+msgstr ""
+
+#: src/flip-card/index.js:183
+msgid "Card Image description"
+msgstr ""
+
+#: src/flip-card/index.js:185
+msgid ""
+"This will not appear, this is meant to describe image in empty div with "
+"background image."
+msgstr ""
+
+#: src/flip-card/index.js:186
+msgid "Enter description…"
+msgstr ""
+
+#: src/flip-card/index.js:190
+msgid "Back card settings"
+msgstr ""
+
+#: src/flip-card/index.js:192
+msgid "Card Title"
+msgstr ""
+
+#: src/flip-card/index.js:194
+msgid "Enter title…"
+msgstr ""
+
+#: src/flip-card/index.js:199
+msgid "Enter content…"
+msgstr ""
+
+#: src/flip-card/index.js:208
+msgid "Title Color text"
+msgstr ""
+
+#: src/flip-card/index.js:217
+msgid "Card content color"
+msgstr ""
+
+#: src/flip-card/index.js:226
+msgid "Card Background color"
+msgstr ""
+
+#: src/flip-card/index.js:231
+msgid "Effect settings"
+msgstr ""
+
+#: src/flip-card/index.js:233
+msgid "Type of card effect"
+msgstr ""
+
+#: src/flip-card/index.js:236
+msgid "Flip horizontally"
+msgstr ""
+
+#: src/flip-card/index.js:237
+msgid "Flip vertically"
+msgstr ""
+
+#: src/flip-card/index.js:46
+msgid "Flip card"
+msgstr ""
+
+#: src/flip-card/index.js:50
+msgid "flip"
+msgstr ""
+
+#: src/flip-card/index.js:52
+msgid "cards"
+msgstr ""
+
+#: src/megatoolbar/index.js:14
+msgid "Mega Toolbar"
+msgstr ""
+
+#: src/megatoolbar/index.js:15
+msgid "A powerful toolbar for Gutenberg richtext"
+msgstr ""
+
+#: src/megatoolbar/index.js:19
+msgid "custom toolbar"
+msgstr ""
+
+#: src/megatoolbar/index.js:20
+msgid "button"
+msgstr ""
+
+#: src/megatoolbar/index.js:21
+msgid "toolbar"
+msgstr ""
+
+#: src/megatoolbar/index.js:44
+msgid "Trash content"
+msgstr ""
+
+#: src/megatoolbar/index.js:51
+msgid "Duplicate content"
+msgstr ""
+
+#: src/megatoolbar/index.js:58
+msgid "Linkify hashtags (#) & user(@) for Twitter URLs"
+msgstr ""
+
+#: src/pie/index.js:105
+msgid "Color for percent (stroke svg)"
+msgstr ""
+
+#: src/pie/index.js:113
+msgid "Color for background"
+msgstr ""
+
+#: src/pie/index.js:31
+msgid "Charts"
+msgstr ""
+
+#: src/pie/index.js:32
+msgid "Stats"
+msgstr ""
+
+#: src/pie/index.js:33
+msgid "Pie"
+msgstr ""
+
+#: src/pie/index.js:80
+msgid "Main settings"
+msgstr ""
+
+#: src/pie/index.js:82
+msgid "Percent"
+msgstr ""
+
+#: src/pie/index.js:89
+msgid "Size of charts"
+msgstr ""
+
+#: src/pie/index.js:96
+msgid "Your title"
+msgstr ""
+
+#: src/watermark/index.js:121
+msgid "Remove image"
+msgstr ""
+
+#: src/watermark/index.js:128
+msgid "Watermark Settings"
+msgstr ""
+
+#: src/watermark/index.js:130
+msgid "Watermark text"
+msgstr ""
+
+#: src/watermark/index.js:132
+msgid "Enter URL…"
+msgstr ""
+
+#: src/watermark/index.js:142
+msgid "Watermark Color"
+msgstr ""
+
+#: src/watermark/index.js:147
+msgid "Vertical Alignment"
+msgstr ""
+
+#: src/watermark/index.js:150
+msgid "Top"
+msgstr ""
+
+#: src/watermark/index.js:152
+msgid "Bottom"
+msgstr ""
+
+#: src/watermark/index.js:157
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: src/watermark/index.js:160
+msgid "Left"
+msgstr ""
+
+#: src/watermark/index.js:161
+msgid "Center"
+msgstr ""
+
+#: src/watermark/index.js:162
+msgid "Right"
+msgstr ""
+
+#: src/watermark/index.js:167
+msgid "Image settings"
+msgstr ""
+
+#: src/watermark/index.js:169
+msgid "Height"
+msgstr ""
+
+#: src/watermark/index.js:176
+msgid "Width"
+msgstr ""
+
+#: src/watermark/index.js:211
+msgid "Choose an image"
+msgstr ""
+
+#: src/watermark/index.js:41
+msgid "Watermarked image"
+msgstr ""
+
+#: src/watermark/index.js:45
+msgid "watermark"
+msgstr ""
+
+#: src/watermark/index.js:46
+msgid "copyright"
+msgstr ""
+
+#: src/watermark/index.js:47
+msgid "image"
+msgstr ""
+
+#: src/watermark/index.js:68
+msgid "© Image Watermark"
+msgstr ""

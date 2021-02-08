@@ -1,0 +1,34 @@
+.wp-block-gutextra-alerts {
+  padding: 10px;
+  background: #eee;
+
+  &.alert-danger {
+    background-color: #f2dede;
+    border-color: #ebcccc;
+    color: #a94442;
+  }
+
+  &.alert-warning {
+    background-color: #fcf8e3;
+    border-color: #faf2cc;
+    color: #8a6d3b;
+  }
+
+  &.alert-info {
+    background-color: #d9edf7;
+    border-color: #bcdff1;
+    color: #31708f;
+  }
+
+  &.alert-success {
+    background-color: #dff0d8;
+    border-color: #d0e9c6;
+    color: #3c763d;
+  }
+
+  .message {
+    font-size: 16px;
+    background: transparent;
+    color: inherit;
+  }
+}
